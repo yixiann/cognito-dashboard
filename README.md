@@ -1,9 +1,8 @@
-# Cognito Dashboard
+# [Cognito Dashboard](https://incredible-crostata-719715.netlify.app/preview)
 
 An optimised interface for AWS Cognito, focusing on enhanced user management. With features like sorting, filtering by custom attributes, and quick editing, user management has never been this effortless!
 
 ![cognitodashboard](https://github.com/yixiann/cognito-dashboard/assets/78332456/aafeec09-57ed-434c-9f37-ba220f2f914d)
-
 
 ## Why?
 
