@@ -2,13 +2,14 @@
 
 An optimised interface for AWS Cognito, focusing on enhanced user management. With features like sorting, filtering by custom attributes, and quick editing, user management has never been this effortless!
 
-![cognitodashboard]
+![cognitodashboard](https://github.com/yixiann/cognito-dashboard/assets/78332456/aafeec09-57ed-434c-9f37-ba220f2f914d)
+
 
 ## Why?
 
 From the offical [AWS Documentation](https://docs.aws.amazon.com/cognito/latest/developerguide/how-to-manage-user-accounts.html#cognito-user-pools-searching-for-users-using-listusers-api), we note that we can only search for standard attributes
 
-![image]
+![Screenshot 2023-09-11 at 3 08 09 PM](https://github.com/yixiann/cognito-dashboard/assets/78332456/6e88aa19-5c5d-41e9-8e61-ea8761a50cee)
 
 This application covers this limitation by providing us a means to sort, filter and quickly edit custom attributes. We are also able to update users in batches depending on their attributes.
 
